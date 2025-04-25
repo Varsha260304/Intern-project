@@ -1,3 +1,4 @@
 # Intern-project
-This is my first Git repository.
-Author- Varsha K
+This is my first Git repository. 
+<br>
+ Author - Varsha K
